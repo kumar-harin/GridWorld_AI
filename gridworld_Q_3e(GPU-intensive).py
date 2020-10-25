@@ -1,6 +1,6 @@
 
 
-# don't run this code unless you have a REALLY POWERFUL GPU
+# don't run this code unless you have a REALLY POWERFUL CPU/GPU
 # GPU-intensive
 
 
